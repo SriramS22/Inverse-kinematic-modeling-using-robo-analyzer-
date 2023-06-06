@@ -1,4 +1,4 @@
-# Inverse-kinematic-modeling-using-robo-analyzer-
+# EX NO.3-Inverse-kinematic-modeling-using-robo-analyzer-
 
  
 ## AIM: 
@@ -36,15 +36,12 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ![image](https://user-images.githubusercontent.com/36288975/170623020-f27efc12-bb58-4f62-840d-af544ac6689e.png)
 
 ### PROCEDURE:
-STEP 1: open the roboanalyzer software.
-
-STEP 2: select the robot and its degrees of freedom.
-
-STEP 3: change the values of X and Y wherever necessary.
-
-STEP 4: simulate the model for inverse kinematics.
-
-STEP 5: update the DH parameters of the link configuration and end effector configuration.
+##### 1.open the roboanalyzer software.
+##### 2.select the robot and its degrees of freedom.
+##### 3.change the values of X and Y wherever necessary.
+##### 4.simulate the model for inverse kinematics.
+##### 5.plot the graph between the joints.
+##### 6.update the DH parameters of the link configuration and end effector configuration.
 
 
 
@@ -53,47 +50,33 @@ STEP 5: update the DH parameters of the link configuration and end effector conf
 
 
 ### SIMULATION 
- ## 3R PLANNER
- ![3R PLANNER](https://github.com/SriramS22/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119094390/45f32083-d52e-4c5a-b886-7d0760f647a1)
+## RPR ROBOT:
+![1](https://github.com/IamShakthi/Inverse-kinematic-modeling-using-robo-analyzer-/assets/117913445/68a94d7e-c2f3-4105-9b83-ca3e4e79ff7d)
+![2](https://github.com/IamShakthi/Inverse-kinematic-modeling-using-robo-analyzer-/assets/117913445/fff7a94d-48e3-4f99-a8e9-5d60c58fc0dc)
 
-## 3R ARTICULAR
-![3 R ARTICULATED](https://github.com/SriramS22/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119094390/d2ab2138-9831-4f13-a1b6-aeb7a3729fdd)
 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
+## 3R ROBOT:
+![4](https://github.com/IamShakthi/Inverse-kinematic-modeling-using-robo-analyzer-/assets/117913445/8aa3533c-9826-4883-8387-44967861a9b9)
 
 
 
 
+ ### PLOT 
+ ## RPR ROBOT:
+ ![5](https://github.com/IamShakthi/Inverse-kinematic-modeling-using-robo-analyzer-/assets/117913445/35459bf3-150d-41ee-8803-caff4df7f7cc)
+![6](https://github.com/IamShakthi/Inverse-kinematic-modeling-using-robo-analyzer-/assets/117913445/cd882c3d-3247-434f-a445-b4e96b581aec)
 
+ 
+3R ROBOT:
+ 
+ ![7](https://github.com/IamShakthi/Inverse-kinematic-modeling-using-robo-analyzer-/assets/117913445/b45679d4-e3b2-40d4-9757-5b4948b32dfa)
 
+ ![8](https://github.com/IamShakthi/Inverse-kinematic-modeling-using-robo-analyzer-/assets/117913445/850cb476-dc3d-4531-8882-d528107264cd)
 
-
-
-
-
-
-
+ 
+ 
+ 
+ 
 
 ### RESULTS :  
-The inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer has been analyzed.
+Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
